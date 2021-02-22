@@ -12,4 +12,4 @@
 </ul>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<a href="https://react-pokemon-pokedex.netlify.app/">
-<img src="https://img.shields.io/static/v1?label= &message=live demo&color=750b87&style=for-the-badge" height=35></img></a>
+<img src="https://img.shields.io/static/v1?label=%20&message=live%20demo&color=750b87&style=for-the-badge" height=35></img></a>

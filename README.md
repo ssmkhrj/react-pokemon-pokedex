@@ -11,4 +11,5 @@
 <li>Proper error handling has been done to tackle situations where the api breaks.</li>
 </ul>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<a href="https://react-pokemon-pokedex.netlify.app/">
+<img src="https://img.shields.io/static/v1?label= &message=live demo&color=750b87&style=for-the-badge" height=35></img></a>

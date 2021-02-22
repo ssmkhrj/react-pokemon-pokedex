@@ -1,6 +1,6 @@
 <h1>POKÉMON POKEDEX </h1>
 
-<img src="https://img.shields.io/static/v1?label=%20&labelColor=222&logo=react&message=react&color=61dafb&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=222&logo=javascript&message=javascript&color=f7df1e&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=222&logo=html5&message=html5&color=e34f26&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=222&logo=css3&message=css3&color=1572b6&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=222&logo=npm&message=npm&color=cb3837&style=for-the-badge"></img>
+<img src="https://img.shields.io/static/v1?label=%20&labelColor=23505c&logo=react&message=react&color=61dafb&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=695f0a&logo=javascript&message=javascript&color=f7df1e&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=4a190b&logo=html5&message=html5&color=e34f26&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=0b3a5c&logo=css3&message=css3&color=1572b6&style=for-the-badge"></img> <img src="https://img.shields.io/static/v1?label=%20&labelColor=631919&logo=npm&message=npm&color=cb3837&style=for-the-badge"></img>
 
 <h2>HIGHLIGHTS</h2>
 <ul>

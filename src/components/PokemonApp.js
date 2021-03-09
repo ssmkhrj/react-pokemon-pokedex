@@ -53,7 +53,7 @@ const PokemonApp = () => {
       {/* )} */}
       {isLoading ? <Loader /> : <PokemonContainer pokemons={pokemons} />}
       <footer className="footer">
-        <a href="https://github.com/">
+        <a href="https://github.com/ssmkhrj/react-pokemon-pokedex">
           <i className="fab fa-github"></i>
         </a>
       </footer>

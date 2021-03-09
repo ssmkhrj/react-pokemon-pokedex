@@ -14,7 +14,7 @@ const Pagination = ({ currPage, updateGen, totalPages, isLoading }) => {
       {Array.from({ length: totalPages }, (el, idx) => (
         <button
           key={idx}
-          disabled={isLoading}
+          disabled={isLoading || currPage === idx}
           className={`btn ${currPage === idx ? "btn--current" : ""}`}
           onClick={() => updateGen(idx)}
         >
